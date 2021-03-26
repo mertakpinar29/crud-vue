@@ -10,7 +10,7 @@
 
 - [x] Set routes,test with Postman
 
-- [] Create a vue app,install bulma,create a Navbar component
+- [x] Create a vue app,install bulma,create a Navbar component
 
 - [] Home view
 
